@@ -7,7 +7,7 @@ Praca magisterka obejmuje zagadnienia z:
  
 ## Zadania do wykonania
  - [ ] **Qiskit**  - wykonanie ćwiczeń z https://qiskit.org/textbook/preface.html
-	 - [ ] 1. Quantum States and Qubits
+	 - [x] 1. Quantum States and Qubits
 	 - [ ] 2. Multiple Qubits and Entanglement 
 	 - [ ] 3. Quantum Protocols and Quantum Algorithms 
 	 - [ ] 4. Quantum Algorithms for Applications 
